@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - enemy
+  - crystal
+  - trap
+  - boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platforms
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 743361545
+    locked: 0
+  - name: Midground
+    uniqueID: 890312891
+    locked: 0
+  - name: Foreground
+    uniqueID: 1225782015
+    locked: 0
+  - name: Platforms
+    uniqueID: 862449553
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
